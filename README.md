@@ -2,12 +2,12 @@
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
-### Basic Congiguration
+### Basic Congiguration ✔
 - Ip address
 - Default Gateway
 - DNS
 
-### Switch Configuration
+### Switch Configuration ✔
 - Interface Ports
 - Hostname
 - Banner
@@ -15,7 +15,7 @@
 - Speed
 - Dublex, Full dublex
 
-### Router Configuration
+### Router Configuration ✔
 - Interface Ports
 - Serial Ports
 - DHCP IPv4 pool
@@ -37,17 +37,17 @@
 - SSH
 - Super Admin
 
-### Server Configuration
+### Server Configuration ✔
 - DHCP Relay Agent without pool
 - NTP Server
 - Syslog Server
 
-### Security Configuration
+### Security Configuration ✔
 - Enable password
 - Console password
 - Line vty
 
-### Vlan Configuration
+### Vlan Configuration ✔
 - Interface
 - Ip address
 - Vlan rename
@@ -57,7 +57,7 @@
 - VoIP
 - IP Phone Configuration
 
-### Network Protocols
+### Network Protocols ✔
 - Ipv4
 - Ipv6
 - Telnet
